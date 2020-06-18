@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXwQtjCUQdl90qYnn0aB0+MG5fhkz5HiVI74Ufy2tEbdomdzADC7tQgo2begQOejQj9yucnA8C0CqezPO+0qRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecdi\\source\\repos\\TrackerLibrary\\TrackerLibrary\\TrackerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecdi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hecdi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
