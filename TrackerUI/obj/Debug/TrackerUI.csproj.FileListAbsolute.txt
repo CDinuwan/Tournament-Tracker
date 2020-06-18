@@ -1,0 +1,10 @@
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.TournamentViewer.resources
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.pdb

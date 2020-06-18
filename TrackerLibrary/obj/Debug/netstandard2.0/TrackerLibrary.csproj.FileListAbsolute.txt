@@ -1,0 +1,9 @@
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.dll
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.pdb
