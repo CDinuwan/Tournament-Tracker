@@ -181,7 +181,6 @@
             // 
             // btnScore
             // 
-            this.btnScore.FlatAppearance.BorderSize = 0;
             this.btnScore.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(102)))), ((int)(((byte)(102)))), ((int)(((byte)(102)))));
             this.btnScore.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.btnScore.FlatStyle = System.Windows.Forms.FlatStyle.Flat;

@@ -8,3 +8,4 @@ C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.
 C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
 C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTouranamentPage.resources
