@@ -10,3 +10,5 @@ C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.pdb
 C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTouranamentPage.resources
 C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.frmCreateTeam.resources
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.frmCreatePrice.resources
+C:\Users\hecdi\source\repos\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.frmTornamentDashboard.resources

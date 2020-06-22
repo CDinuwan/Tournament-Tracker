@@ -39,7 +39,7 @@
             this.lblCreateNewTeam = new System.Windows.Forms.LinkLabel();
             this.btnAddTeam = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.listTournamentLayer = new System.Windows.Forms.ListBox();
+            this.listPrize1 = new System.Windows.Forms.ListBox();
             this.lblTournamentLayer = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.btnDeleteSelectedPrize = new System.Windows.Forms.Button();
@@ -154,15 +154,15 @@
             this.button1.Text = "Create Prize";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // listTournamentLayer
+            // listPrize1
             // 
-            this.listTournamentLayer.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.listTournamentLayer.FormattingEnabled = true;
-            this.listTournamentLayer.ItemHeight = 30;
-            this.listTournamentLayer.Location = new System.Drawing.Point(385, 133);
-            this.listTournamentLayer.Name = "listTournamentLayer";
-            this.listTournamentLayer.Size = new System.Drawing.Size(332, 152);
-            this.listTournamentLayer.TabIndex = 18;
+            this.listPrize1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.listPrize1.FormattingEnabled = true;
+            this.listPrize1.ItemHeight = 30;
+            this.listPrize1.Location = new System.Drawing.Point(385, 133);
+            this.listPrize1.Name = "listPrize1";
+            this.listPrize1.Size = new System.Drawing.Size(332, 152);
+            this.listPrize1.TabIndex = 18;
             // 
             // lblTournamentLayer
             // 
@@ -250,7 +250,7 @@
             this.Controls.Add(this.listPrize);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.lblTournamentLayer);
-            this.Controls.Add(this.listTournamentLayer);
+            this.Controls.Add(this.listPrize1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnAddTeam);
             this.Controls.Add(this.lblCreateNewTeam);
@@ -283,7 +283,7 @@
         private System.Windows.Forms.LinkLabel lblCreateNewTeam;
         private System.Windows.Forms.Button btnAddTeam;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ListBox listTournamentLayer;
+        private System.Windows.Forms.ListBox listPrize1;
         private System.Windows.Forms.Label lblTournamentLayer;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnDeleteSelectedPrize;

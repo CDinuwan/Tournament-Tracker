@@ -52,11 +52,23 @@
     <Compile Include="CreateTouranamentPage.Designer.cs">
       <DependentUpon>CreateTouranamentPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCreatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreatePrice.Designer.cs">
+      <DependentUpon>frmCreatePrice.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmCreateTeam.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmCreateTeam.Designer.cs">
       <DependentUpon>frmCreateTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTornamentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTornamentDashboard.Designer.cs">
+      <DependentUpon>frmTornamentDashboard.cs</DependentUpon>
     </Compile>
     <Compile Include="TournamentViewer.cs">
       <SubType>Form</SubType>
@@ -69,8 +81,14 @@
     <EmbeddedResource Include="CreateTouranamentPage.resx">
       <DependentUpon>CreateTouranamentPage.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCreatePrice.resx">
+      <DependentUpon>frmCreatePrice.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmCreateTeam.resx">
       <DependentUpon>frmCreateTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTornamentDashboard.resx">
+      <DependentUpon>frmTornamentDashboard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
